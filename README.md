@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <a href="https://team.doubao.com/">Website</a>
     ·
-    <a href="![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/728331c5-4f11-429e-b1d8-dd3dc073a048)">Wechat</a>
+    <a href="https://github.com/user-attachments/assets/728331c5-4f11-429e-b1d8-dd3dc073a048">Wechat</a>
     ·
     <a href="https://www.xiaohongshu.com/user/profile/668e7e15000000000303157d">Xiaohongshu</a>
       ·
