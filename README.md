@@ -9,7 +9,7 @@
   <br>
   <a href="https://team.doubao.com/">
     <img src="https://img.shields.io/badge/Website-%231e37ff?style=for-the-badge&logo=bytedance&logoColor=white"></a>
-  <a href="https://github.com/user-attachments/assets/728331c5-4f11-429e-b1d8-dd3dc073a048">
+  <a href="![Seed Wechat](https://github.com/user-attachments/assets/93481cda-a7f3-47f3-b333-fe6b3da86b78)">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
  <a href="https://www.xiaohongshu.com/user/profile/668e7e15000000000303157d/">
     <img src="https://img.shields.io/badge/Xiaohongshu-%23FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"></a>
@@ -17,8 +17,9 @@
     <img src="https://img.shields.io/badge/zhihu-%230084FF?style=for-the-badge&logo=zhihu&logoColor=white"></a>
 </p>
 
-![资源 5@4x-100](https://github.com/user-attachments/assets/c44c4cf7-5375-42bd-9a03-1e277b89e3cf)
+![seed logo](https://github.com/user-attachments/assets/c42e675e-497c-4508-8bb9-093ad4d1f216)
 
+<!-- 以上为Seed官方信息，可直接复制使用，请注意提前导入“Seed logo”、“Seed WeChat”图片
 
 
 # Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
