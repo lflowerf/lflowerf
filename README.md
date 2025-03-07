@@ -3,7 +3,7 @@
 <div align="center">
  👋 Hi, everyone! 
     <br>
-    We are <b>the ByteDance Doubao (Seed)  team.</b>
+    We are <b>ByteDance Seed team.</b>
 </div>
 
 <p align="center">
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/zhihu-%230084FF?style=for-the-badge&logo=zhihu&logoColor=white"></a>
 </p>
 
-
 # Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
 <p align="center">
   <a href="https://github.com/bytedance/flux">
@@ -31,8 +30,6 @@
   <a href="![image](https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae)">
     <img src="https://img.shields.io/badge/COMET-Wechat Communication Group-07C160"></a>
 </p>
-
-
 
 We are extremely delighted to release COMET. COMET/Flux is a communication-overlapping library for dense/MoE models on GPUs, providing high-performance and pluggable kernels to support various parallelisms in model training/inference.
 
