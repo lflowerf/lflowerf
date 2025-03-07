@@ -40,7 +40,11 @@ Flux's efficient kernels are compatible with Pytorch and can be integrated into 
 
 Welcome to join the [Wechat](https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae) group and stay tuned!
 
+# XXX
+xxxxxx
 
+# XXX
+xxxxxx
 
 # About [Doubao (Seed) Team](https://team.doubao.com/)
 
