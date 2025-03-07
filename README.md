@@ -42,7 +42,7 @@ Welcome to join the [Wechat](https://github.com/user-attachments/assets/d3fcb3bf
 
 
 
-# About Doubao (Seed) Team
+# About [Doubao (Seed) Team](https://team.doubao.com/)
 
 Founded in 2023, the ByteDance Doubao (Seed) Team is dedicated to crafting the industry's most advanced AI foundation models. The team aspires to become a world-class research team and make significant contributions to the advancement of science and society.
 
