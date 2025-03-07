@@ -19,7 +19,7 @@
 
 ![seed logo](https://github.com/user-attachments/assets/c42e675e-497c-4508-8bb9-093ad4d1f216)
 
-<!-- 以上为Seed官方信息，可直接复制使用，请注意提前导入“Seed logo”、“Seed WeChat”图片
+<!-- 以上为Seed官方信息，可直接复制使用，请注意导入“Seed WeChat”（第12行）、“Seed logo”(第20行)图片替换 -->
 
 
 # Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
