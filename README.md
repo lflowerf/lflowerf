@@ -19,7 +19,7 @@
 
 ![seed logo](https://github.com/user-attachments/assets/c42e675e-497c-4508-8bb9-093ad4d1f216)
 
-<!-- 以上为Seed官方信息，可直接复制使用，请注意导入“Seed WeChat”（第12行）、“Seed logo”(第20行)图片替换 -->
+<!-- 注释：以上为Seed官方信息，可直接复制使用，请注意导入“Seed WeChat”（第12行）、“Seed logo”(第20行)图片替换 -->
 
 
 # Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
@@ -41,6 +41,8 @@ Flux's efficient kernels are compatible with Pytorch and can be integrated into 
 
 Welcome to join the [Wechat](https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae) group and stay tuned!
 
+<!-- 注释：以上为项目基础信息，以项目COMET举例，Comet一级标题（第25行）、徽章Comet名字（第28、30、32、34行）记得替换，徽章可按需使用；专属微信群出现在两个位置，第34行、第42行，可以联系EB同学创建 -->
+
 # XXX
 xxxxxx
 
@@ -50,4 +52,6 @@ xxxxxx
 # About [ByteDance Seed Team](https://team.doubao.com/)
 
 Founded in 2023, ByteDance Seed Team is dedicated to crafting the industry's most advanced AI foundation models. The team aspires to become a world-class research team and make significant contributions to the advancement of science and society.
+
+<!-- 注释：About ByteDance Seed Team可直接复制使用 -->
 
