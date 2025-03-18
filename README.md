@@ -31,7 +31,7 @@
   <a href="XXXX">
     <img src="https://img.shields.io/badge/COMET-Hugging Face-orange"></a>
   <br>
-  <a href="![image](https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae)">
+  <a href="https://github.com/user-attachments/assets/d3fcb3bf-466b-4efe-8c3f-5f85258202ae">
     <img src="https://img.shields.io/badge/COMET-Wechat Communication Group-07C160"></a>
   <a href="XXX">
     <img src="https://img.shields.io/badge/License-XXX-blue"></a>
