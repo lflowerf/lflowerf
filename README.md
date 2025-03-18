@@ -88,4 +88,3 @@ If you find XXX useful for your research and applications, feel free to give us 
 Founded in 2023, ByteDance Seed Team is dedicated to crafting the industry's most advanced AI foundation models. The team aspires to become a world-class research team and make significant contributions to the advancement of science and society.
 
 <!-- 注释：About ByteDance Seed Team可直接复制使用 -->
-
