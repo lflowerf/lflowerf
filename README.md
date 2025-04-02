@@ -47,32 +47,29 @@ Welcome to join the [Wechat](https://github.com/user-attachments/assets/d3fcb3bf
 请注意，徽章可根据具体项目自定义，如技术成果落地页、技术成果报告/Paper、Hugging Face、项目微信交流群、License、打榜榜单等，更换名字和链接即可；
 专属微信群出现在两个位置，第34行、第42行，可以联系EB同学创建 -->
 
-# News
+## News
 [2025/03/XX]🔥We have supported XXXXXX.
 <br>
 [2025/02/XX]🔥XXX is accepted as XXXXXX.
 <br>
 [2025/01/XX]🔥We release XXX.
 
-# Table of Contents
+## Table of Contents
 xxxxxx
 
-# Introduction
-xxxxxx
-
-# Getting started
+## Introduction
 xxxxxx
 
 ## Getting started
 xxxxxx
 
-# Features
+## Features
 xxxxxx
 
-# License
+## License
 This project is licensed under XXX. See the XXX flie for details.
 
-# Citation
+## Citation
 If you find XXX useful for your research and applications, feel free to give us a star ⭐ or cite us using:
 
 ```bibtex
