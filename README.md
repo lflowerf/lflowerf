@@ -63,6 +63,9 @@ xxxxxx
 # Getting started
 xxxxxx
 
+## Getting started
+xxxxxx
+
 # Features
 xxxxxx
 
