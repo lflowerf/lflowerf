@@ -89,6 +89,3 @@ Founded in 2023, ByteDance Seed Team is dedicated to crafting the industry's mos
 
 <!-- 注释：About ByteDance Seed Team可直接复制使用 -->
 
-
-![431369912-dd7efc02-5213-463c-98e0-056a84c540a8](https://github.com/user-attachments/assets/469535a8-42f2-4797-acdf-4f7a1d4a0c3e)
-
