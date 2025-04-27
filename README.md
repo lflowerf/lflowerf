@@ -83,7 +83,7 @@ If you find XXX useful for your research and applications, feel free to give us 
 }
 ```
 
-## About [ByteDance Seed Team](https://team.doubao.com/)
+## About [ByteDance Seed Team](https://seed.bytedance.com/)
 
 Founded in 2023, ByteDance Seed Team is dedicated to crafting the industry's most advanced AI foundation models. The team aspires to become a world-class research team and make significant contributions to the advancement of science and society.
 
